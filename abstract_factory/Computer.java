@@ -1,4 +1,4 @@
-package abstractfactory;
+package abstract_factory;
 
 public class Computer {
 	private Cpu cpu;

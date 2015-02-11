@@ -1,4 +1,4 @@
-package abstractfactory;
+package abstract_factory;
 
 public class AmdFactory implements CpuFactory{
 
